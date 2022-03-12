@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nukeolay<br>
-<img src="https://readme-typing-svg.herokuapp.com?color=00783F&center=true&lines=Flutter+mobile+app+developer"></h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&lines=Flutter+mobile+app+developer"></h1>
 
 🐣 Born in 1986 in Russia, I never stopped growing since.
 
