@@ -9,19 +9,31 @@
 
 👨🏻‍💻 My dream job is at a product company, where I can express my love and attention for my users, fully remote or remote first, where I can keep on learning and honing my skills.
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+<h2><i>Stats</i></h2>
+</br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nukeolay&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nukeolay&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=nukeolay&theme=onedark">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=nukeolay&theme=onedark&date_format=M%20j%5B%2C%20Y%5D">
+</div>
+<div align="center">
+<h2><i>Language and Tools</i></h2>
+</br>
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" title="Dart">
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Flutter">
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" title="App Store">
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" title="Play Store">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git">
+</br>
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nukeolay&hide=javascript,HTML&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-## My projects
+<div align="center">
+<h2><i>My projects</i></h2>
+</br>
+</div>
 
 📲 **peace it**
 <br>Original puzzle game created with Flutter framework.
