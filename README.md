@@ -17,6 +17,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nukeolay&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nukeolay&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nukeolay&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nukeolay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -36,6 +39,7 @@ Get and use hints, go through difficult boss levels.
 <br>Simple dating mobile app created with Flutter framework for those pepole who want to talk to nice person, but don't have enought courage to do it, or don't have phisycal capability to speak, e.i. deafs or dumbs. 
 <br>*Can found here:*<br>- <a href="https://apps.apple.com/us/app/small-talk-pickup-easier/id1589417543">App Store</a><br>- <a href="https://play.google.com/store/apps/details?id=com.qumyz.small_talk">Google Play</a><br>- <a href="https://nukeolay.github.io/smalltalk/">Progressive Web App</a><br>
 <br>
+
 📲 **Susanin - offline navigator**
 <br>Easy to use offline navigator created with Flutter framework.
 Went to forest? Afraid of getting lost? Is there no internet in the forest?
