@@ -1,4 +1,4 @@
-👋🏻 Hey, please call me Nukeolay.
+👋🏻 Hey, please call me Nukeolay. I`m Flutter mobile app developer
 
 🐣 Born in 1986 in Russia, I never stopped growing since.
 
