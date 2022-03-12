@@ -53,7 +53,7 @@ Get and use hints, go through difficult boss levels.
 
 📲 **Small Talk - Pickup assistant**
 <br>Simple dating mobile app created with Flutter framework for those pepole who want to talk to nice person, but don't have enought courage to do it, or don't have phisycal capability to speak, e.i. deafs or dumbs. 
-<br>*Can found here:*<br>- <a href="https://apps.apple.com/us/app/small-talk-pickup-easier/id1589417543">App Store</a><br>- <a href="https://play.google.com/store/apps/details?id=com.qumyz.small_talk">Google Play</a><br>- <a href="https://nukeolay.github.io/smalltalk/">Progressive Web App</a><br>
+<br>*Can found here:*<br>- <a href="https://apps.apple.com/us/app/small-talk-pickup-easier/id1589417543">App Store</a><br>- <a href="https://play.google.com/store/apps/details?id=com.qumyz.small_talk">Google Play</a><br>- <a href="https://nukeolay.github.io/smalltalk/">Progressive Web App</a>
 <br>
 
 📲 **Susanin - offline navigator**
