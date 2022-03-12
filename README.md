@@ -17,7 +17,7 @@ The goal is to make all cells "peaceful" within minimal moves number, by turning
 The problem is that the cells are not flipped one at a time, but together with nearest cells.
 The first levels are really easy to complete, but the more levels you pass, the more difficult they becomes.
 Get and use hints, go through difficult boss levels.
-<br>*Can found here:*<br>- <a href="https://apps.apple.com/us/app/peace-it/id1613042804">App Store</a><br>- <a href="https://play.google.com/store/apps/details?id=com.qumyz.peaceit">Google Play</a><br>
+<br>*Can be found here:*<br>- <a href="https://apps.apple.com/us/app/peace-it/id1613042804">App Store</a><br>- <a href="https://play.google.com/store/apps/details?id=com.qumyz.peaceit">Google Play</a><br>
 
 📲 **Small Talk - Pickup assistant**
 <br>Simple dating mobile app created with Flutter framework for those pepole who want to talk to nice person, but don't have enought courage to do it, or don't have phisycal capability to speak, e.i. deafs or dumbs. 
@@ -29,25 +29,17 @@ Went to forest? Afraid of getting lost? Is there no internet in the forest?
 Don’t be afraid, Susanin will help you!
 Just save the current location and go, and Susanin will show you the way back - the direction and distance to the saved location.
 Or have you parked your car in a large open parking lot and now you can't find it? Susanin is who you really need!
-<br>*Can found here:*<br>- <a href="https://play.google.com/store/apps/details?id=com.qumyz.susanin">Google Play</a>
+<br>*Can be found here:*<br>- <a href="https://play.google.com/store/apps/details?id=com.qumyz.susanin">Google Play</a>
 <br>
-📲 **img2xls**
-*Web application made with Python. It converts images to Excel sheets.*
 
-**Can be found here:**
-- [img2xls.herokuapp.com](https://img2xls.herokuapp.com)
+🌍 **img2xls**
+<br>Web application made with Python.
+Converts images to Excel sheets where each Excel cell is pixel of uploaded image
+<br>*Can be found here:*<br>- <a href="https://img2xls.herokuapp.com">img2xls.herokuapp.com</a>
 
-## Instasnitch - Telegram bot ##
-*Bot made with Golang. Can be used to track for private Instagram accounts and inform you when they become public. Also, it can save and send you media from public Instagram posts, stories and reels.*
+🤖 **Instasnitch - Telegram bot**
+<br>Bot made with Golang. Can be used to track for private Instagram accounts and inform you when they become public. Also, it can save and send you media from public Instagram posts, stories and reels.
+<br>*Can be found here:*<br>- <a href="https://t.me/instasnitchbot)">t.me/instasnitchbot</a>
 
-**Can be found here:**
-- [https://t.me/instasnitchbot](https://t.me/instasnitchbot)
-
-**contact me:** [qumyzapps@gmail.com](mailto:qumyzapps@gmail.com)
-
-## And now, more bullet points because I'm lazy
-
-🌱 I’m currently learning more and more each day about [Nx](https://github.com/nrwl/nx)  
-📫 Reach me at: https://twitter.com/trumbitta  
-💬 Ask me about anything really  
-⚡ Fun fact: I am a published poet
+🌱 I’m currently learning more and more each day<br>
+📫 Reach me at: nukeolay@gmail.com  
