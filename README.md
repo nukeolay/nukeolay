@@ -15,6 +15,13 @@
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nukeolay&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nukeolay&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nukeolay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## My projects
 
 📲 **peace it**
