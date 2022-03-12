@@ -3,15 +3,17 @@
 
 🐣 Born in 1986 in Russia, I never stopped growing since.
 
-⌨️ I started programming in 2019.  
-💻 As a Flutter developer in 2020.  
+⌨️ I started programming in 2019.<br>
+💻 As a Flutter developer in 2020.<br>
 
-🔮 I see myself coding till I die.
+🔮 I see myself coding till I die<br>
 
-👨🏻‍💻 My dream job is at a product company, where I can express my love and attention for my users, fully remote or remote first, where I can keep on learning and honing my skills.
+👨🏻‍💻 My dream job is at a product company, where I can express my love and attention for my users, fully remote or remote first, where I can keep on learning and honing my skills.<br>
 
-🌱 I’m currently learning more and more each day<br>
-📫 Reach me at: <a href="mailto:nukeolay@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"></a>
+🌱 I’m currently learning more and more each day.<br>
+
+📫 Reach me at:<br>
+<a href="mailto:nukeolay@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"></a>
 <a href="https://www.linkedin.com/in/nukeolay/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"></a>
 <a href="https://t.me/nukeolay" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"></a>
 
