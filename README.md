@@ -2,8 +2,8 @@
 
 🐣 Born in 1986 in Russia, I never stopped growing since.
 
-☎️ I started programming in 2019.  
-💅🏻 As a Flutter developer in 2020.  
+⌨️ I started programming in 2019.  
+💻 As a Flutter developer in 2020.  
 
 🔮 I see myself coding till I die.
 
