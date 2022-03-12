@@ -1,4 +1,5 @@
-👋🏻 Hey, please call me Nukeolay. I`m Flutter mobile app developer.
+<h1 align="center">Hi there, I'm Nukeolay<br>
+<img src="https://readme-typing-svg.herokuapp.com?color=00783F&center=true&lines=Flutter+mobile+app+developer"></h1>
 
 🐣 Born in 1986 in Russia, I never stopped growing since.
 
@@ -8,6 +9,10 @@
 🔮 I see myself coding till I die.
 
 👨🏻‍💻 My dream job is at a product company, where I can express my love and attention for my users, fully remote or remote first, where I can keep on learning and honing my skills.
+
+🌱 I’m currently learning more and more each day<br>
+📫 Reach me at: <a href="mailto:nukeolay@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"></a>
+<a href="https://www.linkedin.com/in/nukeolay/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"></a>
 
 <div align="center">
 <h2><i>Stats</i></h2>
@@ -65,6 +70,3 @@ Converts images to Excel sheets where each Excel cell is pixel of uploaded image
 🤖 **Instasnitch - Telegram bot**
 <br>Bot made with Golang. Can be used to track for private Instagram accounts and inform you when they become public. Also, it can save and send you media from public Instagram posts, stories and reels.
 <br>*Can be found here:*<br>- <a href="https://t.me/instasnitchbot)">t.me/instasnitchbot</a>
-
-🌱 I’m currently learning more and more each day<br>
-📫 Reach me at: nukeolay@gmail.com  
