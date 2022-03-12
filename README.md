@@ -9,7 +9,7 @@
 
 👨🏻‍💻 My dream job is at a product company, where I can express my love and attention for my users, fully remote or remote first, where I can keep on learning and honing my skills.
 
-## Highlights
+## My projects
 
 📲 **peace it**
 <br>Original puzzle game created with Flutter framework.
