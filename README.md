@@ -1,3 +1,3 @@
-<h1 align="center">Hi there, I'm Nukeolay
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Nukeolay</h1>
 <h3 align="center">Flutter mobile app developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Flutter+mobile+app+developer)](https://git.io/typing-svg)
