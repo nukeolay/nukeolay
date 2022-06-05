@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&height=20&lines=Flutter+mobile+app+developer">
 </h1>
 
-🐣 Born in 1986 in Russia, I never stopped growing since.
+🐣 Born in 1986 in Ufa (Russia), live in Moscow.
 
 ⌨️ I started programming in 2019.<br>
 💻 As a Flutter developer in 2020.<br>
