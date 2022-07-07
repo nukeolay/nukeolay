@@ -74,4 +74,4 @@ Converts images to Excel sheets where each Excel cell is pixel of uploaded image
 
 🤖 <a href="https://github.com/nukeolay/instasnitchbot">**`Instasnitch - Telegram bot`**</a>
 <br>Bot made with Golang. Can be used to track for private Instagram accounts and inform you when they become public. Also, it can save and send you media from public Instagram posts, stories and reels.
-<br>*Try it here:*<br>- <a href="https://t.me/instasnitchbot)">t.me/instasnitchbot</a>
+<br>*Try it here (currently disabled due to legal issues):*<br>- <a href="https://t.me/instasnitchbot)">t.me/instasnitchbot</a>
