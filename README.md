@@ -10,9 +10,10 @@
 
 🔮 I see myself coding till I die<br>
 
-👨🏻‍💻 My dream job is at a company, where I can create beautiful and complex products, and where I can keep on learning and honing my skills.<br>
+🌱 I’m learning more and more each day.<br>
 
-🌱 I’m currently learning more and more each day.<br>
+👨🏻‍💻 I'm currently working as a developer at AnnNIGM LLC, developing a mobile app for Android and iOS that handles Bluetooth connection to a non-invasive glucose dynamics tracker, analyzes the received data, plots real-time glucose trend, and sends this data to the backend.<br>
+
 
 📫 Reach me at:<br>
 <a href="mailto:nukeolay@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"></a>
