@@ -12,7 +12,7 @@
 
 🌱 I’m learning more and more each day.<br>
 
-👨🏻‍💻 I'm currently working as a developer at AnnNIGM LLC, developing a mobile app for Android and iOS that handles Bluetooth connection to a non-invasive glucose dynamics tracker, analyzes the received data, plots real-time glucose trend, and sends this data to the backend.<br>
+👨🏻‍💻 I'm currently working as a developer at AnnNIGM LLC, developing a Flutter mobile app for Android and iOS that provides a connection to a non-invasive glucose dynamics tracker via Bluetooth, analyzes the received data, plots real-time glucose trends, sends received data to the backend server.<br>
 
 
 📫 Reach me at:<br>
