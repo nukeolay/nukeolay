@@ -5,8 +5,7 @@
 
 🐣 Born in 1986 in Ufa (Russia), live in Moscow.
 
-⌨️ I started programming in 2019.<br>
-💻 As a Flutter developer in 2020.<br>
+💻 Working as a Flutter developer since 2020.<br>
 
 🔮 I see myself coding till I die<br>
 
