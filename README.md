@@ -11,7 +11,7 @@
 
 🌱 I’m learning more and more each day.<br>
 
-👨🏻‍💻 I'm currently working as a developer at AnnNIGM LLC, developing a Flutter mobile app for Android and iOS that provides a connection to a non-invasive glucose dynamics tracker via Bluetooth, analyzes the received data, plots real-time glucose trends, sends received data to the backend server.<br>
+👨🏻‍💻 I'm currently working as a Flutter Tech Lead at Doctis.<br>
 
 
 📫 Reach me at:<br>
