@@ -1,11 +1,11 @@
 <h1 align="center">
   Hi there, I'm Nukeolay<br>
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&height=20&lines=Flutter+developer">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&height=20&lines=software engineer">
 </h1>
 
 🐣 Born in 1986 in Ufa (Russia), live in Tashkent (Uzbekistan).
 
-💻 Working as a Flutter developer since 2020.<br>
+💻 Flutter developer since 2020.<br>
 
 🔮 I see myself coding till I die<br>
 
@@ -19,13 +19,6 @@
 <a href="https://www.linkedin.com/in/nukeolay/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"></a>
 <a href="https://t.me/nukeolay" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"></a>
 
-<div align="center">
-<h2><i>Stats</i></h2>
-</br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nukeolay&theme=onedark">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=nukeolay&theme=onedark&date_format=M%20j%5B%2C%20Y%5D">
-</div>
 <div align="center">
 <h2><i>Language and Tools</i></h2>
 </br>
@@ -42,9 +35,29 @@
 </div>
 
 <div align="center">
-<h2><i>My projects</i></h2>
+<h2><i>Commerical projects</i></h2>
 </br>
 </div>
+
+📲 **`Doctis`**
+<br> Doctis is a service for online consultations with a doctor.
+Download the application so that 1,600 experts are always available to you at any time of the day.
+All you need is access to the Internet and a smartphone, through which you can contact the doctor.
+Several methods of online consultations: chat, call, video.
+<br>*Try it here:*<br>- <a href="https://apps.apple.com/us/app/doctis/id1251825134">App Store</a><br>- <a href="https://play.google.com/store/apps/details?id=ru.medotrade.mobile.patientdoctis&hl=en">Google Play</a><br>
+
+📲 **`ForDoctor`**
+<br> Application Doctis Doctor will allow you to stay in touch with the patient around-the-clock 7 days a week. There is no longer need to use Messengers to communicate with the patient. All the necessary functionality for the doctor is within one application Doctis Doctor.
+<br>*Try it here:*<br>- <a href="https://apps.apple.com/us/app/fordoctor/id1347169935">App Store</a><br>- <a href="https://play.google.com/store/apps/details?id=ru.medotrade.mobile.doctordoctis&hl=en">Google Play</a><br>
+
+
+<div align="center">
+<h2><i>Pet projects</i></h2>
+</br>
+</div>
+
+🛠 <a href="https://pub.dev/packages/display_metrics">**`display_metrics`**</a>
+<br>Flutter plugin that provides display metrics such as real screen resolution, physical display size, ppi, diagonal. Also it contains BuildContext extension to transform inches & millimeters into Flutter logical pixels.<br>
 
 📲 <a href="https://github.com/nukeolay/susanin">**`Susanin - find your way back`**</a>
 <br>Easy to use offline navigator created with Flutter framework.
@@ -63,7 +76,7 @@ Get and use hints, go through difficult boss levels.
 <br>*Try it here:*<br>- <a href="https://apps.apple.com/us/app/peace-it/id1613042804">App Store</a><br>- <a href="https://play.google.com/store/apps/details?id=com.qumyz.peaceit">Google Play</a><br>
 
 📲 <a href="https://github.com/nukeolay/small_talk">**`Small Talk - Pickup assistant`**</a>
-<br>Simple dating mobile app created with Flutter framework for those pepole who want to talk to nice person, but don't have enought courage to do it, or don't have phisycal capability to speak, e.i. deafs or dumbs. 
+<br>Simple dating mobile app created with Flutter framework for those pepole who want to talk to nice person, but don't have enough courage to do it, or don't have physical capability to speak, e.i. deafs or dumbs. 
 <br>*Try it here:*<br>- <a href="https://apps.apple.com/us/app/small-talk-pickup-easier/id1589417543">App Store</a><br>- <a href="https://play.google.com/store/apps/details?id=com.qumyz.small_talk">Google Play</a><br>- <a href="https://nukeolay.github.io/smalltalk/">Progressive Web App</a>
 <br>
 
