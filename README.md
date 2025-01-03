@@ -1,6 +1,5 @@
 <h1 align="center">
   Hi there, I'm Nukeolay<br>
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&height=20&lines=software engineer">
 </h1>
 
 🐣 Born in 1986 in Ufa (Russia), live in Tashkent (Uzbekistan).
